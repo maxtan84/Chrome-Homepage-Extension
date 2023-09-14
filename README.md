@@ -16,4 +16,6 @@ Created as a customizable alternative to regular productivity homepages.
 ## Features
 - **Crypto Highs and Lows:** Default is set to Bitcoin but adjust which crypto you want to see on your homepage by editing <code>fetch("https://api.coingecko.com/api/v3/coins/bitcoin")</code>.
 - **Weather Widget:** Check the current weather in your location.
-- **Changing background:** New wallpaper for your homepage every time you open it up.
+- **Changing background:** New unsplash wallpaper for your homepage every time you open it up.
+
+![image](https://github.com/maxtan84/Chrome-Homepage-Extension/assets/87951920/685cc56e-ea21-45b9-b144-8f14758579f8)
